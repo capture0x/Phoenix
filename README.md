@@ -8,6 +8,10 @@
 
 ### POC:
 
+<img src="https://raw.githubusercontent.com/capture0x/Magento-ver.-2.4.6/main/1.png" alt="Magento Image" width="1000">
+<img src="https://raw.githubusercontent.com/capture0x/Magento-ver.-2.4.6/main/2.png" alt="Magento Image" width="1000">
+
+
 1. **Login to admin panel:** 
     - Visit: `https://demos6.softaculous.com/CE_Phoenixvkqhcarjmw/admin/define_language.php?lngdir=english`
     
