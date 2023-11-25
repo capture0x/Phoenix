@@ -1,10 +1,10 @@
 ## Exploit Title: CE Phoenix v1.0.8.20 - Remote Code Execution (RCE) (Authenticated)
-### Date: 2023-11-25
-### Exploit Author: tmrswrr
-### Category: Webapps
-### Vendor Homepage: [CE Phoenix](https://phoenixcart.org/)
-### Version: v1.0.8.20
-### Tested on: [Softaculous Demo - CE Phoenix](https://www.softaculous.com/apps/ecommerce/CE_Phoenix)
+##### Date: 2023-11-25
+##### Exploit Author: tmrswrr
+##### Category: Webapps
+##### Vendor Homepage: [CE Phoenix](https://phoenixcart.org/)
+##### Version: v1.0.8.20
+##### Tested on: [Softaculous Demo - CE Phoenix](https://www.softaculous.com/apps/ecommerce/CE_Phoenix)
 
 ### POC:
 
